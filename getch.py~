@@ -1,0 +1,5 @@
+import getch
+import os
+ch=getch()
+if ch=="a":
+    os.system("aplay /home/harshitha/Documents/WaveTest3.wav")

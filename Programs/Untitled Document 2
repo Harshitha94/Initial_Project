@@ -1,2 +1,0 @@
-os.system("aplay /home/harshitha/Documents/WaveTest3.wav")
-
